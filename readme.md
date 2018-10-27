@@ -2,4 +2,4 @@
 
 Adding changes to the existing data
 
-demonstrating master
+demonstrating master user
